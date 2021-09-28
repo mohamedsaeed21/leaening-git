@@ -1,0 +1,3 @@
+# leaening-git
+
+learning perpouses 
